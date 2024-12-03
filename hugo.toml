@@ -1,0 +1,13 @@
+baseURL = 'https://wzZero.github.io'
+languageCode = 'en-us'
+theme = 'anubis2'
+title = "wzZero'log"
+
+[author]
+name = "wzZero"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+style = 'base16-snazzy'
