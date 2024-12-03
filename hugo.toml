@@ -1,13 +1,10 @@
 baseURL = 'https://wzZero.github.io'
 languageCode = 'en-us'
-theme = 'anubis2'
+theme = 'PaperMod'
 title = "wzZero'log"
 
-[author]
+[params.author.name]
 name = "wzZero"
 
 [markup.goldmark.renderer]
 unsafe = true
-
-[markup.highlight]
-style = 'base16-snazzy'
